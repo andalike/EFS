@@ -14,9 +14,7 @@ sudo mount -t efs fs-dfb6773d:/ /mnt/efs<br/>
 
 #Optional Steps
 cd /mnt/efs/<br/>
-ls<br/>
 df -h<br/>
-history<br/>
 sudo mkdir getting-started<br/>
 sudo chown ec2-user getting-started<br/>
 sudo chown ubuntu  getting-started<br/>
